@@ -1,0 +1,26 @@
+Best model in estimating GHI per climatic zone,,,
+Climate Zone,,Best Model,Mean Ranking
+Arid Interior,,SS1,2.83
+Cold Interior,,SS1,2.67
+Temperate Interior,,SS1,4.89
+Hot Interior,,SS1,3.17
+Subtropical,,SS2,5.83
+Temperate Coastal,,SS1,1.78
+,,,
+ Best model in estimating DHI per climatic zone,,,
+Climate Zone,,Best Model,Mean Ranking
+Arid Interior,,SS3,1.5
+Cold Interior,,McClear,5.17
+Temperate Interior,,ESRA,4
+Hot Interior,,McClear,2.83
+Subtropical,,HLJ,5.5
+Temperate Coastal,,Climate,2.67
+,,,
+ Best model in estimating DNI per climatic zone,,,
+Climate Zone,,Best Model,Mean Ranking
+Arid Interior,,McClear,1.34
+Cold Interior,,Archer,6.5
+Temperate Interior,,El Mghouchi,3.67
+Hot Interior,,SS5,2.5
+Subtropical,,SS4,2.34
+Temperate Coastal,,SS5,2.89
